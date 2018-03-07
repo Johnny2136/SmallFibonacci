@@ -1,0 +1,6 @@
+projectKey=my:smallFibonacci
+serverUrl=http://172.20.10.4
+serverVersion=7.0.0.36138
+dashboardUrl=http://172.20.10.4/dashboard/index/my:smallFibonacci
+ceTaskId=AWH8UrG63tGm4GAMrol5
+ceTaskUrl=http://172.20.10.4/api/ce/task?id=AWH8UrG63tGm4GAMrol5
